@@ -13,6 +13,5 @@
 
 Присоединяйтесь к RUMESSAGE и будьте на связи с миром стриминга!
 
-ЗАРЕГЕСТРИРОВАТСЯ ЕСЛИ ТЫ СТРИМЕР -> rumessage
+ЗАРЕГЕСТРИРОВАТСЯ ЕСЛИ ТЫ СТРИМЕР -> ru-message.ru
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScyLxxnU-6vd0_NXCOpD_EuWBAE1xLcgtfKh2Nwm3Nx7TQ0xA/viewform?embedded=true" width="640" height="904" frameborder="0" marginheight="0" marginwidth="0">Загрузка…</iframe>
